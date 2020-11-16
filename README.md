@@ -1,2 +1,2 @@
-# Sistemas-Distribuidos
-Trabalhos de sistemas distribuídos
+# Thrift
+Implementação do thrift
